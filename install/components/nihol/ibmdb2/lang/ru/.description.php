@@ -1,0 +1,5 @@
+<?
+$MESS['NIHOL_IBMDB2_COMPONENT_NAME'] = "Ibmdb2";
+$MESS['NIHOL_IBMDB2_COMPONENT_DESCRIPTION'] = "Nihol Ibmdb2 описание";
+$MESS['NIHOL_IBMDB2_COMPONENT_DESC'] = "Ibmdb2 компонент";
+?>

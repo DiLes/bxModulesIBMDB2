@@ -1,0 +1,4 @@
+<?
+$MESS["NIHOL_IBMDB2_MODULE_NAME"] = "IBM DB2 Модуль";
+$MESS["MNIHOL_IBMDB2_MODULE_DESCRIPTION"] = "Модуль интеграции с базой IBM DB222";
+?>
